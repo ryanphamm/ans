@@ -1755,8 +1755,8 @@ body {
   color: #ffffff;
 }
 .cid-rBJ6iUVSpU {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #c52351;
 }
 .cid-rBJ6iUVSpU P {
@@ -1810,9 +1810,6 @@ body {
 }
 .cid-rzM0dxnWzM .card-title {
   text-align: center;
-}
-.cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/-mg-164-2000x1333.jpg");
 }
 .cid-rzPHlrtg2U {
   padding-top: 90px;
@@ -1904,6 +1901,7 @@ body {
 }
 .cid-rzPHlrtg2U .mbr-section-title {
   color: #ffffff;
+  text-align: left;
 }
 .cid-rzPHlrtg2U .mbr-section-subtitle {
   color: #efefef;
