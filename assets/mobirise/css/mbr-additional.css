@@ -1757,18 +1757,17 @@ body {
 .cid-rBJ6iUVSpU {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #c52351;
 }
 .cid-rBJ6iUVSpU P {
   color: #767676;
 }
-.cid-rzM0ubN6h7 {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background-color: #efefef;
+.cid-rBJ6iUVSpU H1 {
+  color: #ffffff;
 }
-.cid-rzM0ubN6h7 .mbr-text {
-  color: #232323;
+.cid-rBJ6iUVSpU .mbr-text,
+.cid-rBJ6iUVSpU .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rzM0dxnWzM {
   padding-top: 90px;
